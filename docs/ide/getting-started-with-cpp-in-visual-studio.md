@@ -48,7 +48,7 @@ Visual Studio usa *proyectos* para organizar el código de una aplicación y *so
 
    ![Use el cuadro de diálogo Nuevo proyecto para crear el proyecto de la aplicación](../ide/media/get-started-cpp-new-project-dialog.png)
 
-   El cuadro de diálogo puede contener opciones diferentes en función de las cargas de trabajo de Visual Studio y los componentes que se hayan instalado. Si no ve las plantillas de proyecto de Visual C++, será necesario volver a ejecutar el Instalador de Visual Studio e instalar la carga de trabajo **Desarrollo de escritorio con C++**. Puede hacerlo directamente desde el cuadro de diálogo **Nuevo proyecto**. Para iniciar el Instalador, seleccione el vínculo **Abrir el instalador de Visual Studio** en el cuadro de diálogo.
+   El cuadro de diálogo puede contener diferentes opciones en función de las cargas de trabajo de Visual Studio y los componentes que se hayan instalado. Si no ve las plantillas de proyecto de Visual C++, será necesario volver a ejecutar el Instalador de Visual Studio e instalar la carga de trabajo **Desarrollo de escritorio con C++**. Puede hacerlo directamente desde el cuadro de diálogo **Nuevo proyecto**. Para iniciar el Instalador, seleccione el vínculo **Abrir el instalador de Visual Studio** en el cuadro de diálogo.
 
 1. Seleccione el botón **Aceptar** para crear el proyecto y la solución de la aplicación.
 
