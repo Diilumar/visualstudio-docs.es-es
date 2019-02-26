@@ -23,7 +23,7 @@ Puede crear aplicaciones para dispositivos Android, iOS y Windows con Visual Stu
 
 Crear aplicaciones mediante C# y .NET Framework, HTML y JavaScript o C++. Comparta código, cadenas, imágenes y, en algunos casos, incluso la interfaz de usuario.
 
-Si quiere compilar un juego o una aplicación gráfica inmersiva, instale Visual Studio Tools para Unity y disfrute de las eficaces características de productividad de Visual Studio con Unity, el popular entorno de desarrollo y motor multiplataforma de juegos y gráficos para aplicaciones que se ejecuta en iOS, Android, Windows y otras plataformas.
+Si quiere compilar un juego o una aplicación gráfica inmersiva, instale Visual Studio Tools para Unity y disfrute las eficaces características de productividad de Visual Studio con Unity, el popular entorno de desarrollo y motor multiplataforma de juegos y gráficos para aplicaciones que se ejecuta en iOS, Android, Windows y otras plataformas.
 
 ## <a name="build-an-app-for-android-ios-and-windows-net-framework"></a>Compilación de una aplicación para Android, iOS y Windows (.NET Framework)
 
